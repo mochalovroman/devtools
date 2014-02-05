@@ -9,5 +9,4 @@ devtools
 ## Postman
 Перво наперво необходимо скачать само раснирение Postman
 
-[Postman Rest Client][prs]
-prs: https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm
+[Postman Rest Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
