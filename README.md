@@ -17,4 +17,9 @@ devtools
 
 [Json Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
+Плюсы
+- Подсветка синтаксиса
+- Сворачивание дерева объектов
+- Поках поличества объектов и корне дерева и в каждом объекте
+- Кликабельные урлы, сразу переход на картинку или ссылку это круто
 
